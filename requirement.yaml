@@ -1,5 +1,5 @@
 Show:
-  show_id : '652ce571844565000121567e'
+  show_id : '69b92821d212530001c1a03e'
   session_id : ''
   seat_plan_id : ''
   session_id_exclude : []
@@ -10,6 +10,6 @@ Bill:
 
 Audience:
   # Piaoxingqiu will validate audience info
-  - name : '刘涛'
-    idNo : '310110199503125710'
+  - name : '温子涵'
+    idNo : '362532200101064918'
     idType : 'ID_CARD'
